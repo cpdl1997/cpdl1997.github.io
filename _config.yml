@@ -1,7 +1,7 @@
 # headers and icon 
-title: khang nguyen
-info: phd cs @ uta
-icon-pic: assets/img/mandu_icon.png
+title: Soumya Sarkar
+info: JRF @ IIT Ropar
+icon-pic: assets/img/conference_dp.jpg
 
 # exclude these items when generated website in _site/index.html
 exclude:
