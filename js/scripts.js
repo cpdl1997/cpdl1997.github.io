@@ -75,7 +75,7 @@ function toggleTheme() {
         buttonEl.classList.remove('light-theme');
         buttonEl.classList.add('dark-theme');
         buttonEl.innerText = '☀️';
-        speechBalloon.innerText = 'lights turned off!';
+        speechBalloon.innerText = 'Lights turned off!';
         clickSound.play();
     } else {
         bodyEl.classList.remove('dark-theme');
@@ -83,7 +83,7 @@ function toggleTheme() {
         buttonEl.classList.remove('dark-theme');
         buttonEl.classList.add('light-theme');
         buttonEl.innerText = '🌙';
-        speechBalloon.innerText = 'lights turned on!';
+        speechBalloon.innerText = 'Lights turned on!';
         clickSound.play();
     }
 }
@@ -608,11 +608,11 @@ document.addEventListener('DOMContentLoaded', function() {
     if (currentHour > 19 || currentHour <= 7) {
         document.body.classList.add('dark-theme');
         buttonEl.innerText = '☀️';
-        speechBalloon.innerText = 'it\'s night, lights off!';
+        speechBalloon.innerText = 'It\'s night, lights off!';
     } else {
         document.body.classList.add('light-theme');
         buttonEl.innerText = '🌙';
-        speechBalloon.innerText = 'it\'s day, lights on!';
+        speechBalloon.innerText = 'It\'s day, lights on!';
     }
 });
 
@@ -690,4 +690,4 @@ function animate() {
 }
 
 // Animate the particles
-animate();
+// animate();
