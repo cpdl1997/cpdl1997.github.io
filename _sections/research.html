@@ -3,10 +3,10 @@
 <hr>
 <div class="row" id="research">
     <div class="col">
-        <h2 clss="mb-5">📚 publications</h2>
+        <h2 clss="mb-5">Publications</h2>
         <p></p>
         <div id="filters-project">
-            <button class="filter-button active" data-filter="*">all</button>
+            <button class="filter-button active" data-filter="*">All</button>
             {% for category in site.data.research.categories %}
                 <button class="filter-button" data-filter="{{ category.data-filter }}">{{ category.category-name }}</button>
             {% endfor %}

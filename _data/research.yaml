@@ -11,7 +11,7 @@ projects:
 
   - title: CGFLasso- Combating Multicollinearity using Domain Knowledge
     system-name: 
-    gif:
+    gif: assets/img/cgf-img.png
     conference: CODS COMAD 2024 (IIIT Bangalore, Bangalore, India) 
     conference-web: https://cods-comad.in/2024/
     status:
@@ -29,7 +29,7 @@ projects:
 
   - title: What Did the Chicken Say?- A Multi-class Classification Method on Chicken Vocalisations
     system-name:
-    gif:
+    gif: assets/img/a_egg_Laying.jpg
     conference: ICSTA 2023 (Kolkata, India)
     conference-web: https://agrienics.in/view_conference/1/
     status:
