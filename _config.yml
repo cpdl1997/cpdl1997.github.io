@@ -1,7 +1,7 @@
 # headers and icon 
 title: Soumya Sarkar
 info: JRF @ IIT Ropar
-icon-pic: assets/img/headphone_icon.png
+icon-pic: assets/img/hamster-icon.webp
 
 # exclude these items when generated website in _site/index.html
 exclude:

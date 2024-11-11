@@ -1,10 +1,9 @@
 updates:
 
-  - picture: assets/img/updates/phd_abroad.jpg
+  - picture: assets/img/updates-gan/phd_abroad.jpg
     desc: I am currently looking for PhD opportunities in trustworthy ML (Fairness, Explainability), or deep learning (Knowledge Transfer, Active Learning)
     time: November 2024
 
-  - picture: assets/img/gtml_logo.jpg
+  - picture: assets/img/gtml_logo.png
     desc: I joined IIT Ropar as a JRF under Dr. Shweta Jain in the GTML Lab
     time: August 2024
-

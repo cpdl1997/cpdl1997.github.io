@@ -27,7 +27,7 @@ projects:
     tag: cgflasso
     category: Regularization
 
-  - title: What Did the Chicken Say?: A Multi-class Classification Method on Chicken Vocalisations
+  - title: What Did the Chicken Say?- A Multi-class Classification Method on Chicken Vocalisations
     system-name:
     gif:
     conference: ICSTA 2023 (Kolkata, India)
@@ -36,11 +36,11 @@ projects:
     authors: Kumar Mangalam, <u>Soumya Sarkar</u>, Yakul Dogra, Mukesh Saini, Neeraj Goel
     pdf: assets/papers/WDTCS_Submission_Kumar.pdf
     code: https://github.com/cpdl1997/soumya_resume/tree/main/cdd23
-    demo: 
+    demo:
     slides: assets/slides/ICSTA23_141.pdf
     talk:
     poster:
     abstract-less:  Poultry is one of the largest industries in India, with a market size of USD 23.07 billion in 2022. It is imperative that the health conditions of the poultry chickens are monitored to ensure optimum output. However, due to the size of poultry farms it is a difficult task to keep track of individual chickens and ensure healthy conditions. Our current proposal aims to target this very problem statement using chicken vocalizations. We use various machine learning models to process audio signals of chicken vocalisations and try to find the best implementation combinations to get the best classification results. We find that our method gives 92.23% accuracy and shows
-    tag:  potential in real-life applications.
+    tag: potential in real-life applications.
     category: Deep learning
 

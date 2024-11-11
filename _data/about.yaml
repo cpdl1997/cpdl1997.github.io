@@ -13,7 +13,7 @@ scholar: https://scholar.google.com/citations?user=EdAiDUMAAAAJ&hl=en
 github: https://github.com/cpdl1997
 resume: assets/doc/SoumyaSarkar_Resume_Academic_v1.pdf
 projects: show            # delete "show" or leave it blank to hide this icon
-# location: https://maps.app.goo.gl/ChzvajkDzdL4RxEJ7
+location:
 codepen: 
 orcid: https://orcid.org/0009-0001-8410-3124
 contact: show            # delete "show" or leave it blank to hide this icon
@@ -22,9 +22,9 @@ contact: show            # delete "show" or leave it blank to hide this icon
 dept: CSE @ IIT Ropar
 lab: Game Theory and Machine Learning Lab
 email: sarkar.soumya19@gmail.com
-# phone: +1 (470) 815-5812
+phone:
 website: https://cpdl1997.github.io/
-# web-dns: mkhangg.com
+web-dns:
 
 # about me
 first-paragraph: I am a junior research fellow at the <a href="https://gtmliitrpr.github.io/" target="_blank" rel="noopener">Game Theory and Machine Learning (GTML) Lab</a> affiliated with the <a href="https://cse.iitrpr.ac.in/" target="_blank" rel="noopener">Indian Institute of Technology, Ropar</a> under the guidance of <a href="https://sites.google.com/site/shwetajainiisc/home" target="_blank" rel="noopener">Dr. Shweta Jain</a>, working on federated learning.
