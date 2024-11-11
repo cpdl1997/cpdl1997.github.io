@@ -21,7 +21,7 @@ projects:
     demo:
     slides: assets/slides/CGFLasso PPT.pdf
     talk:
-    poster: assets/doc/CODS_2024_Poster.pdf
+    poster: assets/posters/CODS_2024_Poster.pdf
     abstract-less: Multicollinearity, or near-linear dependencies amongst features, is a statistical phenomenon wherein multiple predictor variables are severely correlated in a multiple regression model. This results in inaccurate parameter estimates, decreased power, low confidence on regressor coefficients and incorrect feature selection in domains such as biological sciences or finance. This paper aims to tackle this issue by constructing a contextual graph based on available domain knowledge. We propose a novel regularization approach called Contextual Graph-guided Fused Lasso (CGFlasso), based on GFLasso regularization to show how prior domain knowledge can improve the current 
     abstract-more: state-of-the-art. We show that our method significantly reduces standard error across multiple datasets. 
     tag: cgflasso
