@@ -1,7 +1,11 @@
 updates:
 
+  - picture: assets/img/updates-gan/ielts.png
+    desc: I achieved a 8.5 band (CEFR Level C2) in IELTS Academic. You can view the certificate <a href="https://drive.google.com/file/d/1X0eE4vq1kLQxXYmSW0oDXLLxfc0UjGev/view" target="_blank" rel="noopener">here</a>.
+    time: November 2024
+
   - picture: assets/img/updates-gan/phd_abroad.jpg
-    desc: I am currently looking for PhD opportunities in federated learning, trustworthy ML, causal AI, or deep learning (Knowledge Transfer, Active Learning)
+    desc: I am currently looking for PhD opportunities in federated learning, trustworthy ML, causal AI, or deep learning.
     time: November 2024
 
   - picture: assets/img/gtml_logo.png
