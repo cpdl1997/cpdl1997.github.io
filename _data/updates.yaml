@@ -1,7 +1,7 @@
 updates:
 
   - picture: assets/img/updates-gan/phd_abroad.jpg
-    desc: I am currently looking for PhD opportunities in trustworthy ML (Fairness, Explainability), or deep learning (Knowledge Transfer, Active Learning)
+    desc: I am currently looking for PhD opportunities in federated learning, trustworthy ML, causal AI, or deep learning (Knowledge Transfer, Active Learning)
     time: November 2024
 
   - picture: assets/img/gtml_logo.png
