@@ -1,5 +1,9 @@
 updates:
 
+  - picture: assets/img/updates-gan/iisc.jpg
+    desc: I have joined IISc Bangalore as a PhD scholar in the ECE Department!
+    time: July 2025
+  
   - picture: assets/img/updates-gan/ECAI-2025.png
     desc: My paper "Cooperative SGD with Dynamic Mixing Matrices" has been accepted at ECAI 2025!
     time: July 2025
