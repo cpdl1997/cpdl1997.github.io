@@ -1,5 +1,9 @@
 updates:
 
+  - picture: assets/img/updates-gan/ECAI-2025.png
+    desc: My paper "Cooperative SGD with Dynamic Mixing Matrices" has been accepted at ECAI 2025!
+    time: July 2025
+  
   - picture: assets/img/updates-gan/ielts.png
     desc: I achieved a 8.5 band (CEFR Level C2) in IELTS Academic. You can view the certificate <a href="https://drive.google.com/file/d/1X0eE4vq1kLQxXYmSW0oDXLLxfc0UjGev/view" target="_blank" rel="noopener">here</a>.
     time: November 2024
